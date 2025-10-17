@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kunald21" target="blank"><img src="https://img.shields.io/twitter/follow/kunald21?logo=twitter&style=for-the-badge" alt="kunald21" /></a> </p>
 
-- 🔭 I’m currently working on **Leading pipeline infrastructure for GCP on LLM translation systems (GKE + Vertex AI + Terraform)**
+- 🔭 I’m currently **leading the pipeline infrastructure for LLM translation systems on GCP, leveraging GKE, Vertex AI, and Terraform.**
 
 - 🌱 I’m currently learning **Advanced system design, Cloud Security, and Terraform modules for multi-env infra**
 
