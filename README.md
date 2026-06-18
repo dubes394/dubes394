@@ -1,6 +1,6 @@
 # Hi, I'm Kunal 👋
 
-Cloud Engineer and AI Engineer based in Toronto.
+AI cloud Engineer based in Toronto.
 
 ## Currently working 
 - LangChain
