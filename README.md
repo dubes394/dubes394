@@ -1,14 +1,18 @@
 # Hi, I'm Kunal 👋
 
-AI cloud Engineer based in Toronto.
+AI & Cloud Engineer @ Vosyn
+Building GenAI, APIs, GCP Infrastructure and LLM Applications
+Toronto, Canada
 
-## Currently working 
-- LangChain
-- LangGraph
-- AI Agents
-- MCP Servers
-- RAG Systems
-- AI Security (Evals, guardrails)
+## Learning Roadmap 2026
+🔄 LangChain
+🔄 LangGraph
+🔄 AI Agents
+
+🎯 Next:
+- MCP
+- Evals
+- Multi-Agent Systems
 
 ## Tech Stack
 - Python
@@ -19,7 +23,7 @@ AI cloud Engineer based in Toronto.
 - Github Actions
 - Prometheus & Grafana
 
-## Featured Projects
+## Featured Projects (in progress)
 - LangChain Learning Journey
 - Cloud Documentation Assistant
 - Translation Pipeline
