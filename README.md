@@ -13,6 +13,7 @@ Toronto, Canada
 - MCP
 - Evals
 - Multi-Agent Systems
+- AI Security 
 
 ## Tech Stack
 - Python
@@ -20,7 +21,7 @@ Toronto, Canada
 - GCP
 - Terraform
 - Docker
-- Github Actions
+- GitHub Actions
 - Prometheus & Grafana
 
 ## Featured Projects (in progress)
