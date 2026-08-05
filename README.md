@@ -1,7 +1,7 @@
 # Hi, I'm Kunal 👋
 
-AI & Cloud Engineer @ Vosyn
-Building GenAI, APIs, GCP Infrastructure and LLM Applications
+AI & Cloud Engineer @Vosyn
+Building GenAI, APIs, GCP infrastructure, and LLM Applications
 Toronto, Canada
 
 ## Learning Roadmap 2026
@@ -13,7 +13,7 @@ Toronto, Canada
 - MCP
 - Evals
 - Multi-Agent Systems
-- AI Security 
+- AI Security using PyRIT
 
 ## Tech Stack
 - Python
@@ -25,6 +25,7 @@ Toronto, Canada
 - Prometheus & Grafana
 
 ## Featured Projects (in progress)
-- LangChain Learning Journey
-- Cloud Documentation Assistant
-- Translation Pipeline
+- LangChain and LangGraph Learning Journey
+- Cloud Documentation Assistant (CloudForge)
+- E2E Translation Pipeline
+- QA AI Agent
